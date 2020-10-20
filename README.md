@@ -1,2 +1,0 @@
-# nasz-projekt
-Przykładowy Projekt
